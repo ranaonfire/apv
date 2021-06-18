@@ -26,6 +26,7 @@ b19f85c863354929b638 duranin july9
 714cc1c94523432fb001 banlga free
 c5a4f678c2c84f93b573 nadeem ali 13july
 7814fee683074dbb9687 nadeem ali 18 july
+449aaa589dff41e1ab5d nadeem ali 18 july
 6e1cb28ad3ef4588a313 ishaq july13
 b0a4bae59615400a9816 roshni 13july
 906ea2810c9342a89270 roshni 13 july
@@ -47,3 +48,4 @@ a6436153e6384ea39d38 Muammer khan 16 july
 3ba69bd23c284fa18828 hamza jutt2 17 july
 2b214ef3612b4c318d0a hamza jutt3 17 july
 cd5a119c48064757ba73 gunaghar 18 july
+c4147ca5578a4d788f29 adil 18 july
