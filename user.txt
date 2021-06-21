@@ -18,7 +18,7 @@ ddcc356e61d14a0dabd4 h
 631d3a6d5e224608b2a5 boss2 6july
 deb1ba9ea64d4f39bda6 akrm 7july
 a92124adb65d48fd89c2 usman 7july
-0c9044dadec14f24925c shaid 8july
+d44354caab4d4044aa36 shaid 8july
 21f65a016c1142e89b20 malik bacha 8july
 4df1de6b5432443a8093 juttFree
 b19f85c863354929b638 duranin july9
@@ -59,4 +59,5 @@ ed03976f331f4bc09670 Muhammad Noman 20 july
 b55a44e84b5749478901 Marwah Nazir 2p 
 b05914ffc1814d5eb390 SF-BADSHA tatu 20 
 de6a25c5fb5f47dfb982 yateem
-375e75bad1504e738c55 Muhamd afzal 21 
+375e75bad1504e738c55 Muhamd afzal 21 july
+0c5f388477fc4d8c88c0 Ahsan fiaz 21 july
