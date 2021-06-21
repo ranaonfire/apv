@@ -33,7 +33,7 @@ b0a4bae59615400a9816 roshni 13july
 6c57addb77634d989af6 sufyan 13 
 a68738400ee5458383ce shf1t
 6fd18a8732714ad88fd8 duniya pesy di 14 july
-5305cb7fb9ee42d48049 sidra
+
 60ac5b714a36468c9ed9 faraz 15july
 86c96a8f73564569a8b3 abdul 15july
 6278a7a3996a48869bfe prince baba 16july
@@ -58,4 +58,5 @@ ed03976f331f4bc09670 Muhammad Noman 20 july
 79081ec875f342338224 arslan iqbal 20 july
 b55a44e84b5749478901 Marwah Nazir 2p 
 b05914ffc1814d5eb390 SF-BADSHA tatu 20 
-de6a25c5fb5f47dfb982 
+de6a25c5fb5f47dfb982 yateem
+375e75bad1504e738c55 Muhamd afzal 21 
