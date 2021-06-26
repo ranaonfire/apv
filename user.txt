@@ -85,7 +85,7 @@ f752547c50e543c48802 Muhammad Waleed 24 july
 a3749c5c3a404076b438 Ashi 24 july
 7d254c28eedf4c61a1f6 afraz 24 july 
 586adb01e6374f80a43b faisu 24 july
-1eec9dac1a464996a7fc Abdul Manan 24 july
+0d9a01674f6b4d6ea160 Abdul Manan 24 july
 e535a54f5997443ebf96 zeshan 24 july
 43bd34aadb644584b454
 c087251789f24960a042 Muhammad Bilal Butt 25 july
@@ -93,4 +93,4 @@ b828b61d75c74ed48b1a Nadeem 25 july
 6a2e69bfd18748018c83 ayaz 25 july
 ca66eb7db729421ba5b8 Amanat 26 july
 b652836c85ae41debe9c yatem
-dd06cef1f6ab4030ac78 usman shafiq 26 july
+bf2b4344e5574165b0ae usman shafiq 26 july
